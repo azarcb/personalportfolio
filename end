@@ -1,0 +1,35 @@
+* [33mcommit b25fc52a17b7ca7640a4e37779f32308c2b47fe2[m[33m ([m[1;36mHEAD -> [m[1;32mdev[m[33m)[m
+[31m|[m Author: azarcb <azar.j@cittabase.com>
+[31m|[m Date:   Wed Jun 1 16:00:13 2022 +0530
+[31m|[m 
+[31m|[m     wokring django
+[31m|[m 
+* [33mcommit 6c51834f26320b72fadf4fb9975a6a06c3347916[m[33m ([m[1;32mmaster[m[33m)[m
+[31m|[m Author: azarcb <azar.j@cittabase.com>
+[31m|[m Date:   Wed Jun 1 14:46:59 2022 +0530
+[31m|[m 
+[31m|[m     data base is restored to sql lite
+[31m|[m 
+* [33mcommit fdb198224d99e82151b24789da2c85c29fcafec0[m[33m ([m[1;31morigin/master[m[33m)[m
+[31m|[m Author: azarcb <azar.j@cittabase.com>
+[31m|[m Date:   Wed Jun 1 11:46:39 2022 +0530
+[31m|[m 
+[31m|[m     First Commit
+[31m|[m 
+* [33mcommit 641cec1c67afb75dca8f53294fe6e41811e24633[m
+[31m|[m Author: azar01j <mail2azarj@gmail.com>
+[31m|[m Date:   Sat May 28 13:26:16 2022 +0530
+[31m|[m 
+[31m|[m     rename
+[31m|[m 
+* [33mcommit 457124dce83ab483796f76b5414bc2f9b471abdc[m
+[31m|[m Author: azar01j <mail2azarj@gmail.com>
+[31m|[m Date:   Sat May 28 13:10:16 2022 +0530
+[31m|[m 
+[31m|[m     folder name changed
+[31m|[m 
+* [33mcommit 3497d6dad1984c15692260281528bd90335d325b[m
+  Author: azar01j <mail2azarj@gmail.com>
+  Date:   Sat May 28 13:01:14 2022 +0530
+  
+      Initial commit
